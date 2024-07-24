@@ -10,3 +10,7 @@
 ## LLM
 ### Course
 - [10 Week Applied LLM](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
+
+### Fundamentals
+- [AI by Hand](https://aibyhand.substack.com/)
+- [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)

@@ -7,8 +7,12 @@
 - [Chart Chooser](https://www.storytellingwithdata.com/blog/2013/04/chart-chooser)
 - [Color Scheme - Color Brewer](https://colorbrewer2.org)
 
+## Deep Learning
+### Courses
+- [University of Waterloo Deep Learning Fall 2023](https://www.youtube.com/playlist?list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz)
+
 ## LLM
-### Course
+### Courses
 - [10 Week Applied LLM](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
 
 ### Fundamentals

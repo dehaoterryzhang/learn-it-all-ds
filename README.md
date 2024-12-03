@@ -6,6 +6,7 @@
 ### Userful Resource
 - [Chart Chooser](https://www.storytellingwithdata.com/blog/2013/04/chart-chooser)
 - [Color Scheme - Color Brewer](https://colorbrewer2.org)
+- [Matplotlib Cheatsheets](https://matplotlib.org/cheatsheets/)
 
 ## Deep Learning
 ### Courses

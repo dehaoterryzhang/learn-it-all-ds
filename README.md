@@ -16,6 +16,11 @@
 ### Courses
 - [10 Week Applied LLM](https://areganti.notion.site/Applied-LLMs-Mastery-2024-562ddaa27791463e9a1286199325045c)
 
+### GitHub Learning Paths
+- [Generative AI for Beginners by Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
+
 ### Fundamentals
 - [AI by Hand](https://aibyhand.substack.com/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
+
+  

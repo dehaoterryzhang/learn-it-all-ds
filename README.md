@@ -23,4 +23,7 @@
 - [AI by Hand](https://aibyhand.substack.com/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 
+## AI Agents
+### GitHub Learning Paths
+- [AI Agents for Beginners by Microsoft](https://github.com/microsoft/ai-agents-for-beginners/tree/main)
   
